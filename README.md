@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 <!--
 **Pedro-anb/Pedro-anb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ m looking for help with ...
 -->
 
 # Not a pro coder, but an invested one
-# Medical researcher
-# Tech Startup owner
+Medical researcher
+Tech Startup owner
 ![foto linkedin](https://github.com/user-attachments/assets/420b1ee0-cd89-4d6f-8cc8-d08760aab457)
